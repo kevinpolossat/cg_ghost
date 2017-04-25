@@ -1,3 +1,3 @@
 # cg_ghost
 
-code for the code challenge ghost in the cell, from codingame.
+Code for the one week challenge "ghost in the cell", from www.codingame.com/. I end up 97 on 3508 players.
